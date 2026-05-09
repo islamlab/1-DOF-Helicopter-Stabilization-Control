@@ -5,6 +5,7 @@ This project focuses on the design, implementation, and experimental validation 
 ## 🎥 System in Action
 
 [![1-DOF Helicopter Stabilization](https://img.youtube.com/vi/THK6JruFvF0/0.jpg)](https://youtu.be/THK6JruFvF0?si=yfFszK4fP6suX3zq)
+
 *(Click the image above to watch the full experimental demonstration on YouTube)*
 
 ## 📌 Project Overview
