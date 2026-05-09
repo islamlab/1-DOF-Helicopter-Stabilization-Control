@@ -2,7 +2,10 @@
 
 This project focuses on the design, implementation, and experimental validation of a 1-DOF helicopter pitch stabilization system. The primary objective is to regulate and track a desired pitch angle about a fixed pivot using brushless DC (BLDC) motors and an inertial measurement unit (IMU).
 
-🎥 **[Watch the System in Action on YouTube](https://youtu.be/THK6JruFvF0?si=yfFszK4fP6suX3zq)**
+## 🎥 System in Action
+
+[![1-DOF Helicopter Stabilization](https://img.youtube.com/vi/THK6JruFvF0/0.jpg)](https://youtu.be/THK6JruFvF0?si=yfFszK4fP6suX3zq)
+*(Click the image above to watch the full experimental demonstration on YouTube)*
 
 ## 📌 Project Overview
 The control of helicopter systems is a classical problem in control engineering due to their open-loop instability, nonlinear dynamics, actuator constraints, and sensitivity to sensor noise. This project employs state-space modeling, Kalman filtering for state estimation, PID-based state feedback, and gravity feedforward compensation to achieve stable and accurate control.
